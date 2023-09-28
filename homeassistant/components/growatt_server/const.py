@@ -11,10 +11,11 @@ SERVER_URLS = [
     "https://server-api.growatt.com/",
     "https://server-us.growatt.com/",
     "http://server.smten.com/",
+    "https://server.growatt.com/",
 ]
 
 DEPRECATED_URLS = [
-    "https://server.growatt.com/",
+  
 ]
 
 DEFAULT_URL = SERVER_URLS[0]
